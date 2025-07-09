@@ -9,14 +9,14 @@ Each folder represents a standalone project that focuses on one or more key Reac
 
 ## 📁 Project Structure
 
-| Folder Name             | Description                             | Concepts Learned                                 |
-| ----------------------- | --------------------------------------- | ------------------------------------------------ |
-| `01_counter-app`        | Simple counter with increment/decrement | `useState`, event handling                       |
-| `02_name-form`          | Form with real-time input display       | Controlled components, `useState`                |
-| `03_color-picker`       | Color theme changer using buttons       | Event handlers, inline styles                    |
-| `04_password-generator` | Random password generator app           | `useState`, `useEffect`, `useCallback`, `useRef` |
-| `05_product-cards`      | Reusable card component with props      | Reusability, `props`                             |
-| `...`                   | More coming soon!                       |                                                  |
+| Folder Name             | Description                             | Concepts Learned                                |
+| ----------------------- | --------------------------------------- | ----------------------------------------------- |
+| `01_counter-app`        | Simple counter with increment/decrement | `useState`, event handling                      |
+| `02_color-picker`       | Color theme changer using buttons       | Event handlers, inline styles                   |
+| `03_password-generator` | Random password generator app           | `useState`, `useEffect`, `useCallback` `useRef` |
+| `04_product-cards`      | Reusable card component with props      | Reusability, `props`                            |
+| `...`                   | More coming soon!                       |                                                 |
+| `05_currency-converter` | Simple currency converter using API     | `Custom Hooks`, Fetch API                       |
 
 ---
 
