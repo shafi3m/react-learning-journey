@@ -39,11 +39,7 @@ This is a currency converter app built with React. It allows users to convert am
 
 ## 🖼️ UI Preview
 
-```
-
 ![App UI](src/assets/image.png)
-
-```
 
 ---
 
