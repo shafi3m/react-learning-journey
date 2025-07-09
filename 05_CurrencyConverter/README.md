@@ -41,7 +41,7 @@ This is a currency converter app built with React. It allows users to convert am
 
 ```
 
-![App UI](./src/assets/image.png)
+![App UI](src/assets/image.png)
 
 ```
 
