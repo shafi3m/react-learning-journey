@@ -17,6 +17,7 @@ Each folder represents a standalone project that focuses on one or more key Reac
 | `04_product-cards`      | Reusable card component with props      | Reusability, `props`                            |
 | soon!                   |                                         |
 | `05_currency-converter` | Simple currency converter using API     | `Custom Hooks`, Fetch API                       |
+| 06_react-router         | learned routing using reactDom          | `react-router-dom`                              |
 | `...`                   | More coming                             |
 
 ---
