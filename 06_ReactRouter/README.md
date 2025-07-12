@@ -85,6 +85,8 @@ export const githubInfoLoader = async () => {
 
 ---
 
+![App UI](src/assets/image.png)
+
 ## 🙋‍♂️ Author Note
 
 This project is part of my React learning journey under the mentorship of **Hitesh Choudhary**.  

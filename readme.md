@@ -9,16 +9,17 @@ Each folder represents a standalone project that focuses on one or more key Reac
 
 ## 📁 Project Structure
 
-| Folder Name             | Description                             | Concepts Learned                                |
-| ----------------------- | --------------------------------------- | ----------------------------------------------- |
-| `01_counter-app`        | Simple counter with increment/decrement | `useState`, event handling                      |
-| `02_color-picker`       | Color theme changer using buttons       | Event handlers, inline styles                   |
-| `03_password-generator` | Random password generator app           | `useState`, `useEffect`, `useCallback` `useRef` |
-| `04_product-cards`      | Reusable card component with props      | Reusability, `props`                            |
-| soon!                   |                                         |
-| `05_currency-converter` | Simple currency converter using API     | `Custom Hooks`, Fetch API                       |
-| 06_react-router         | learned routing using reactDom          | `react-router-dom`                              |
-| `...`                   | More coming                             |
+| Folder Name             | Description                             | Concepts Learned                                        |
+| ----------------------- | --------------------------------------- | ------------------------------------------------------- |
+| `01_counter-app`        | Simple counter with increment/decrement | `useState`, event handling                              |
+| `02_color-picker`       | Color theme changer using buttons       | Event handlers, inline styles                           |
+| `03_password-generator` | Random password generator app           | `useState`, `useEffect`, `useCallback`, `useRef`        |
+| `04_product-cards`      | Reusable card component with props      | Reusability, `props`                                    |
+| `05_currency-converter` | Simple currency converter using API     | `Custom Hooks`, Fetch API                               |
+| `06_react-router`       | Learned routing using React Router DOM  | `react-router-dom`, nested routes, `useParams`, loader  |
+| `07a_context-login`     | User login using Context API            | `useContext`, Context Provider, state sharing           |
+| `07b_theme-toggle`      | Light/Dark mode theme toggle            | `createContext`, `useContext`, `useEffect`, custom hook |
+| `...`                   | More coming                             |                                                         |
 
 ---
 
