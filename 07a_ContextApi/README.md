@@ -75,6 +75,8 @@ src/
 
 ---
 
+![App UI](src/assets/image.png)
+
 ### ✍️ Summary (Final Revision Points)
 
 - Context API is a **React feature to manage global state**.
